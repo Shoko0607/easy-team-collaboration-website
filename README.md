@@ -2,6 +2,6 @@
 
 need fixes:
 
-*submit button in services page (prio)
-*remove/delete of file uploaded in services page (prio)
+*submit button in services page (prio) <br />
+*remove/delete of file uploaded in services page (prio) <br />
 *navbar button directory
